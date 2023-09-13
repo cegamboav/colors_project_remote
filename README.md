@@ -1,3 +1,3 @@
-# test_git_repository
+# colors_project_remote
 
-This is just to test porpouses.
+This is just for training porpuse.
