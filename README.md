@@ -1,3 +1,3 @@
 # colors_project_remote
 
-This is just for training porpuse.
+This is just for training purpose.
